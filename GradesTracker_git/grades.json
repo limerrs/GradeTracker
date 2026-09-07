@@ -1,0 +1,198 @@
+{
+  "groups": [
+    {
+      "id": "group-0",
+      "name": "Dawson 2024-2026",
+      "createdAt": "2026-06-28T18:41:05.327Z",
+      "rows": [
+        {
+          "class_name": "Basketball",
+          "semester": "Fall 2024",
+          "class_avg": 87,
+          "your_avg": 93
+        },
+        {
+          "class_name": "Intro to Social Science Research",
+          "semester": "Fall 2024",
+          "class_avg": 85,
+          "your_avg": 88
+        },
+        {
+          "class_name": "Global History",
+          "semester": "Fall 2024",
+          "class_avg": 77,
+          "your_avg": 85
+        },
+        {
+          "class_name": "Psychology",
+          "semester": "Fall 2024",
+          "class_avg": 77,
+          "your_avg": 77
+        },
+        {
+          "class_name": "Political Science",
+          "semester": "Fall 2024",
+          "class_avg": 83,
+          "your_avg": 83
+        },
+        {
+          "class_name": "French 1",
+          "semester": "Fall 2024",
+          "class_avg": 87,
+          "your_avg": 86
+        },
+        {
+          "class_name": "Intro to College English",
+          "semester": "Fall 2024",
+          "class_avg": 86,
+          "your_avg": 83
+        },
+        {
+          "class_name": "Fitness",
+          "semester": "Winter 2025",
+          "class_avg": 80,
+          "your_avg": 89
+        },
+        {
+          "class_name": "Quantitative Analysis",
+          "semester": "Winter 2025",
+          "class_avg": 84,
+          "your_avg": 95
+        },
+        {
+          "class_name": "Geography",
+          "semester": "Winter 2025",
+          "class_avg": 76,
+          "your_avg": 85
+        },
+        {
+          "class_name": "History of Science & Tech",
+          "semester": "Winter 2025",
+          "class_avg": 81,
+          "your_avg": 81
+        },
+        {
+          "class_name": "Knowledge",
+          "semester": "Winter 2025",
+          "class_avg": 83,
+          "your_avg": 83
+        },
+        {
+          "class_name": "Intro to Economics",
+          "semester": "Winter 2025",
+          "class_avg": 74,
+          "your_avg": 80
+        },
+        {
+          "class_name": "French 2",
+          "semester": "Winter 2025",
+          "class_avg": 85,
+          "your_avg": 87
+        },
+        {
+          "class_name": "English: Literary Genres",
+          "semester": "Summer 2025",
+          "class_avg": 75,
+          "your_avg": 70
+        },
+        {
+          "class_name": "Complementaire en E.P.",
+          "semester": "Fall 2025",
+          "class_avg": 84,
+          "your_avg": 83
+        },
+        {
+          "class_name": "Qualitative Methods",
+          "semester": "Fall 2025",
+          "class_avg": 77,
+          "your_avg": 88
+        },
+        {
+          "class_name": "Enjeux Thematiques",
+          "semester": "Fall 2025",
+          "class_avg": 91,
+          "your_avg": 93
+        },
+        {
+          "class_name": "Technology & Environment",
+          "semester": "Fall 2025",
+          "class_avg": 83,
+          "your_avg": 96
+        },
+        {
+          "class_name": "World Views",
+          "semester": "Fall 2025",
+          "class_avg": 88,
+          "your_avg": 90
+        },
+        {
+          "class_name": "Anthropology",
+          "semester": "Fall 2025",
+          "class_avg": 83,
+          "your_avg": 93
+        },
+        {
+          "class_name": "English: Literary Themes",
+          "semester": "Fall 2025",
+          "class_avg": 86,
+          "your_avg": 94
+        },
+        {
+          "class_name": "Combative Activities",
+          "semester": "Winter 2026",
+          "class_avg": 88,
+          "your_avg": 96
+        },
+        {
+          "class_name": "Linear Algebra",
+          "semester": "Winter 2026",
+          "class_avg": 70,
+          "your_avg": 71
+        },
+        {
+          "class_name": "Urban Life",
+          "semester": "Winter 2026",
+          "class_avg": 73,
+          "your_avg": 83
+        },
+        {
+          "class_name": "Sorcerer's Feast",
+          "semester": "Winter 2026",
+          "class_avg": 83,
+          "your_avg": 78
+        },
+        {
+          "class_name": "Material Culture",
+          "semester": "Winter 2026",
+          "class_avg": 81,
+          "your_avg": 97
+        },
+        {
+          "class_name": "Economic Policy",
+          "semester": "Winter 2026",
+          "class_avg": 69,
+          "your_avg": 85
+        },
+        {
+          "class_name": "Eshtetiques du Cinema",
+          "semester": "Winter 2026",
+          "class_avg": 87,
+          "your_avg": 91
+        },
+        {
+          "class_name": "English: Applied Themes",
+          "semester": "Winter 2026",
+          "class_avg": 85,
+          "your_avg": 88
+        },
+        {
+          "class_name": "Calculus 1",
+          "semester": "Summer 2026",
+          "class_avg": 68,
+          "your_avg": 77
+        }
+      ]
+    }
+  ],
+  "defaultGroupId": "group-0"
+}
